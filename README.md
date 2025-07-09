@@ -42,7 +42,7 @@ A real-time obstacle and lane detection system using ESP32, ultrasonic and IR se
 ### 💻 Uploading Code
 1. Open Arduino IDE.
 2. Select the correct board and port.
-3. Upload `main.ino`.
+3. Upload `SmartDrivingAssistant.ino`.
 
 ### 🧩 Simulation
 1. Open Proteus.
@@ -64,7 +64,3 @@ A real-time obstacle and lane detection system using ESP32, ultrasonic and IR se
 - Cloud-based GPS tracking.
 - AI-based driver alertness monitoring.
 
----
-
-## 📄 License
-This project is licensed under the MIT License.
