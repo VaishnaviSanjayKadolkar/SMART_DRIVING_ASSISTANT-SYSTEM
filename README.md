@@ -1,7 +1,7 @@
 # SMART_DRIVING_ASSISTANT-SYSTEM
 A real-time obstacle and lane detection system using ESP32, ultrasonic and IR sensors. Designed for smart transportation and automation applications.
 #### Functional flow
-<img src="Detailed_flow.png" alt="Block Diagram" width="400" height="300">
+<img src="Detailed_flow.png" alt="Block Diagram" width="600" height="600">
 ---
 
 ## 👩‍💻 Team Members
@@ -22,7 +22,7 @@ A real-time obstacle and lane detection system using ESP32, ultrasonic and IR se
 - DC motors controlled via L298N Motor Driver
 - Simulations using Proteus
 #### Flowchart
-<img src="Flowchart.png" alt="Block Diagram" width="600" height="600">
+<img src="Flowchart.png" alt="Block Diagram" width="400" height="300">
 
 
 ---
@@ -67,7 +67,7 @@ A real-time obstacle and lane detection system using ESP32, ultrasonic and IR se
 - Low power consumption (≈150mA).
 - Scalable system design for industrial or vehicle applications.
 #### Implementation
-<img src="Implementation.png" alt="Block Diagram" width="400" height="300">
+<img src="Implementation.png" alt="Block Diagram" width="400" height="600">
 
 ---
 
