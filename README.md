@@ -19,6 +19,9 @@ A real-time obstacle and lane detection system using ESP32, ultrasonic and IR se
 - Buzzer alerts for safety
 - DC motors controlled via L298N Motor Driver
 - Simulations using Proteus
+#### Flowchart
+<img src="Flowchart.png" alt="Block Diagram" width="400" height="300">
+
 
 ---
 
