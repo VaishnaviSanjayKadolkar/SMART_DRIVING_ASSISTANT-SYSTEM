@@ -3,7 +3,7 @@ A real-time obstacle and lane detection system using ESP32, ultrasonic and IR se
 ---
 
 ## 👩‍💻 Team Members
-- Vaishnavi Kadolkar (02FE22BEC115)
+- Vaishnavi Sanjay Kadolkar (02FE22BEC115)
 - Santoshi Uppin (02FE22BEC085)
 - Swaroop Patil (02FE23BEC401)
 - Swayam Mane (02FE22BEC113)
