@@ -36,7 +36,6 @@ A real-time obstacle and lane detection system using ESP32, ultrasonic and IR se
 <img src="block_diagram.png" alt="Block Diagram" width="400" height="300">
 ---
 
----
 
 ## ⚙️ How to Run
 
