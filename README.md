@@ -67,7 +67,7 @@ A real-time obstacle and lane detection system using ESP32, ultrasonic and IR se
 - Low power consumption (≈150mA).
 - Scalable system design for industrial or vehicle applications.
 #### Implementation
-<img src="Implementation.png" alt="Block Diagram" width="400" height="600">
+<img src="Implementation.png" alt="Block Diagram" width="700" height="300">
 
 ---
 
