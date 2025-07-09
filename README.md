@@ -1,4 +1,4 @@
-# SMART_DRIVING_ASSISTANT-SYSTEM
+# SMART_DRIVING_ASSISTANT_SYSTEM
 A real-time obstacle and lane detection system using ESP32, ultrasonic and IR sensors. Designed for smart transportation and automation applications.
 #### Functional flow
 <img src="Detailed_flow.png" alt="Block Diagram" width="600" height="600">
