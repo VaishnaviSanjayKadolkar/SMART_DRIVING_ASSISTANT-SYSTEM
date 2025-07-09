@@ -38,8 +38,9 @@ A real-time obstacle and lane detection system using ESP32, ultrasonic and IR se
 1. Connect ultrasonic and IR sensors to ESP32 GPIOs.
 2. Connect motors via L298N driver.
 3. Use a stable 12V power supply.
-####Block diagram
-![Block Diagram](block_diagram.png)
+#### Block diagram
+<img src="block_diagram.png" alt="Block Diagram" width="400" height="300">
+
 
 
 ### 💻 Uploading Code
