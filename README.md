@@ -30,7 +30,8 @@ A real-time obstacle and lane detection system using ESP32, ultrasonic and IR se
 - Arduino IDE (C++ based)
 - Proteus for simulation
 - Hardware tools: Ultrasonic sensor, IR sensor, DC motors, Buzzer, L298N driver
-
+#### Block diagram
+<img src="block_diagram.png" alt="Block Diagram" width="400" height="300">
 ---
 
 ---
@@ -41,8 +42,9 @@ A real-time obstacle and lane detection system using ESP32, ultrasonic and IR se
 1. Connect ultrasonic and IR sensors to ESP32 GPIOs.
 2. Connect motors via L298N driver.
 3. Use a stable 12V power supply.
-#### Block diagram
-<img src="block_diagram.png" alt="Block Diagram" width="400" height="300">
+#### Circuit diagram
+<img src="circuit_diagram.png" alt="Block Diagram" width="400" height="300">
+
 
 
 
